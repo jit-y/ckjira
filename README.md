@@ -1,6 +1,6 @@
 # ckjira
 
-ckjira is a bot for JIRA notification
+ckjira is a slack bot for JIRA notification
 
 ## Usage
 set environmental variables
